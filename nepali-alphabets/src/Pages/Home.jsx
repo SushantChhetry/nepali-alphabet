@@ -9,7 +9,7 @@ const Home = () => {
       </div>
       <div className="grid_item2">
         <button type="button" className="btn">
-          Click Me!
+          Start
         </button>
       </div>
       <div className="grid_item3">
